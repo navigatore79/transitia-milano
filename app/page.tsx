@@ -1,5 +1,5 @@
-import TransitiaMilanoPreview from "./transitia-milano-preview";
+import Home from "./home";
 
 export default function Page() {
-  return <TransitiaMilanoPreview />;
+  return <Home />;
 }
