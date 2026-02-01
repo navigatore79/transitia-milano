@@ -295,7 +295,7 @@ export default function TransitiaMilanoPreview() {
         />
 
         <Section
-          id=""milano
+          id="milano"
           title="Stessa fase di vita, esigenze simili"
           subtitle="Non è solo dividere l’affitto: è condividere ritmi, spazi e responsabilità con rispetto."
         >
