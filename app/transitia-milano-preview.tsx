@@ -150,17 +150,17 @@ export default function TransitiaMilanoPreview() {
               </div>
 
               <h1 className="mt-5 text-4xl sm:text-5xl font-semibold tracking-tight">
-                Condividere casa a Milano
+                Uniamo persone in tutta Italia
                 <span className="block text-neutral-700">
-                  con persone che condividono le tue stesse esigenze (figli, ritmi,
-                  responsabilità)
+                  che condividono le tue stesse esigenze (figli, ritmi,
+                  responsabilità) e vogliono dividere le spese di gestioen casa
                 </span>
               </h1>
 
               <p className="mt-4 max-w-xl leading-7 text-neutral-600">
-                Dopo una separazione o un cambiamento familiare, la casa diventa spesso
-                il problema più urgente. Transitia ti aiuta a dividere spese e gestione
-                in modo riservato, con contatto graduale.
+                Per il tempo necessario a normalizzare il cambiamento,
+                restando vicini ai propri affetti e condividendo casa e spese
+                con chi vive una fase simile della vita.
               </p>
 
               <div className="mt-6 flex flex-col sm:flex-row gap-3">
