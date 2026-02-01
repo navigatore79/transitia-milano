@@ -150,10 +150,10 @@ export default function TransitiaMilanoPreview() {
               </div>
 
               <h1 className="mt-5 text-4xl sm:text-5xl font-semibold tracking-tight">
-                Uniamo persone in tutta Italia
+                Uniamo persone 
                 <span className="block text-neutral-700">
-                  che condividono le tue stesse esigenze (figli, ritmi,
-                  responsabilità) e vogliono dividere le spese di gestioen casa
+                  con le tue stesse esigenze (figli, ritmi,
+                  responsabilità) e vogliono dividere le spese di gestione casa
                 </span>
               </h1>
 
@@ -295,8 +295,8 @@ export default function TransitiaMilanoPreview() {
         />
 
         <Section
-          id="milano"
-          title="Milano: stessa fase di vita, esigenze simili"
+          id=""milano
+          title="Stessa fase di vita, esigenze simili"
           subtitle="Non è solo dividere l’affitto: è condividere ritmi, spazi e responsabilità con rispetto."
         >
           <div className="grid gap-4 sm:grid-cols-3">
