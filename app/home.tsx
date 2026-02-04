@@ -397,7 +397,8 @@ function QuickChatModal({
         return;
       }
 
-      let cid = existing?.id as string | undefined;
+      let cid: string | null = (existing?.id as string) ?? null;
+
 
       if (!cid) {
         const { data: created, error: e2 } = await supabase
@@ -412,7 +413,10 @@ function QuickChatModal({
         }
         cid = created.id;
       }
-
+if (!cid) {
+  setStatus("Errore: conversation id mancante.");
+  return;
+}
       setConversationId(cid);
 
       const loadMessages = async () => {
